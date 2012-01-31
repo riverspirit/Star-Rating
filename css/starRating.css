@@ -1,0 +1,18 @@
+#starRating {
+/*    border: 1px dashed darkseagreen;*/
+}
+
+.rated {
+    background: url('../images/rated2.png');
+}
+
+.unrated {
+    background: url('../images/unrated2.png');
+}
+
+.rateButton {
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+    display: inline-block;
+}
